@@ -14,11 +14,11 @@ Worked with Django for the last 5+ years. I already completed lots of big projec
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidpy&show_icons=true&locale=en" alt="hamidpy" /></p>
+<p></p>
 </br>
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidpy&show_icons=true&locale=en&layout=compact" alt="hamidpy" /></p>
+<p></p>
 
 </br>
 </br>
